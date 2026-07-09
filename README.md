@@ -4,8 +4,6 @@ This project connects data on how exposed each US occupation is to AI with occup
 
 [Original code](https://github.com/sfchronicle/sa-AI-job-adaptation) and [story](https://www.expressnews.com/projects/2026/ai-impact-san-antonio-jobs/) are from Wesley Ratko for San Antonio Express-News.
 
-Runsheets and docs [can be found here](https://drive.google.com/drive/folders/1uQ30srEMg74sQd-yB4qAgiz3Mc6bZLXz).
-
 ## About the data
 
 In 2024, OpenAI and the University of Pennsylvania [released a study](https://openai.com/index/gpts-are-gpts/) that analyzed AI’s impact on 923 different U.S. occupations. The study looked at all of the tasks that comprise an occupation (as defined by [ONET](https://www.onetonline.org/))  and scored whether each task could be made 50% easier with the assistance of existing AI tools like ChatGPT, or with the assistance of a custom-built tool built that uses AI.
@@ -74,7 +72,7 @@ What each file does:
 - `00_load_bls_data.ipynb` - YOU SHOULD NOT NEED TO RUN THIS FILE AGAIN. This script processes BLS data on employment for different occupations across all US metros, states and nationwide. 
 - `01_clean_crosswalk.ipynb` - YOU SHOULD NOT NEED TO RUN THIS FILE AGAIN. This script makes the "best fit" matches between SOC occupations and NEM occupations so we can connect AI scores to BLS employment data.
 - `02_merge_bls_scores.ipynb` - YOU SHOULD NOT NEED TO RUN THIS FILE AGAIN. This script merges the BLS employment data with the crosswalked AI study scores. It also calculates an AI exposure category and an employment category columns (high, medium high, medium low and low) and then exports all of the data for use in the analysis files.
-- `03_xxxx_analysis_questions.ipynb` - These scripts use the merged BLS employment data+OpenAI study scores to answer market-specific questions such as: Which most common occupations in my metro area are most highly exposed to AI? I have taken a first stab at defining interesting questions to answer. All "findings" for each market have been added to the market's respective [doc here](https://drive.google.com/drive/folders/1uQ30srEMg74sQd-yB4qAgiz3Mc6bZLXz). You should feel free to change your market's analysis notebook however you want if it helps you analyze the data better.
+- `03_xxxx_analysis_questions.ipynb` - These scripts use the merged BLS employment data+OpenAI study scores to answer market-specific questions such as: Which most common occupations in my metro area are most highly exposed to AI? I have taken a first stab at defining interesting questions to answer.
 - `04_format_graphics.ipynb`- YOU SHOULD NOT NEED TO RUN THIS FILE AGAIN. This script takes a market and state and outputs the data necessary to populate both the scatterplot and the nested table available with this project. Once this script is run for your metro area (or state in the case of CT), you will need to manually upload the files it produces to your runsheet tabs `parent_table`and `child_table`. This has already been run for you so unless you changed the AI exposure score variable, you should not need to run this again.
 
 ## How to add to this story
