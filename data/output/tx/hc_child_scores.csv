@@ -1,0 +1,150 @@
+parent_id,child_id,Occupation,AI_adaptation_score
+11-1011,11-1011.03,Chief Sustainability Officers,0.3888888888888888
+11-3013,11-3013.01,Security Managers,0.5357142857142857
+11-3031,11-3031.01,Treasurers and Controllers,0.4078947368421052
+11-3031,11-3031.03,Investment Fund Managers,0.5285714285714286
+11-3051,11-3051.01,Quality Control Systems Managers,0.4716981132075472
+11-3051,11-3051.02,Geothermal Production Managers,0.3833333333333333
+11-3051,11-3051.03,Biofuels Production Managers,0.1785714285714285
+11-3051,11-3051.04,Biomass Power Plant Managers,0.28125
+11-3051,11-3051.06,Hydroelectric Production Managers,0.3142857142857143
+11-3071,11-3071.04,Supply Chain Managers,0.4727272727272727
+11-9041,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,0.2758620689655172
+11-9121,11-9121.01,Clinical Research Coordinators,0.4661016949152542
+11-9121,11-9121.02,Water Resource Specialists,0.4268292682926829
+11-9179,11-9179.01,Fitness and Wellness Coordinators,0.2934782608695652
+11-9179,11-9179.02,Spa Managers,0.3571428571428571
+11-9199,11-9199.01,Regulatory Affairs Managers,0.5384615384615385
+11-9199,11-9199.02,Compliance Managers,0.54
+11-9199,11-9199.08,Loss Prevention Managers,0.3679245283018867
+11-9199,11-9199.09,Wind Energy Operations Managers,0.40625
+11-9199,11-9199.10,Wind Energy Development Managers,0.5333333333333333
+11-9199,11-9199.11,Brownfield Redevelopment Specialists and Site Managers,0.4069767441860465
+13-1041,13-1041.01,Environmental Compliance Inspectors,0.4878048780487805
+13-1041,13-1041.03,Equal Opportunity Representatives and Officers,0.5
+13-1041,13-1041.04,Government Property Inspectors and Investigators,0.3529411764705882
+13-1041,13-1041.06,Coroners,0.4594594594594595
+13-1041,13-1041.07,Regulatory Affairs Specialists,0.6696428571428571
+13-1041,13-1041.08,Customs Brokers,0.6022727272727273
+13-1081,13-1081.01,Logistics Engineers,0.6842105263157894
+13-1081,13-1081.02,Logistics Analysts,0.6509433962264151
+13-1161,13-1161.01,Search Marketing Strategists,0.5081967213114754
+13-1199,13-1199.04,Business Continuity Planners,0.5
+13-1199,13-1199.05,Sustainability Specialists,0.6785714285714285
+13-1199,13-1199.06,Online Merchants,0.5603448275862069
+13-1199,13-1199.07,Security Management Specialists,0.4130434782608695
+13-2099,13-2099.01,Financial Quantitative Analysts,0.6621621621621622
+13-2099,13-2099.04,"Fraud Examiners, Investigators and Analysts",0.5227272727272727
+15-1211,15-1211.01,Health Informatics Specialists,0.6363636363636364
+15-1241,15-1241.01,Telecommunications Engineering Specialists,0.5319148936170213
+15-1243,15-1243.01,Data Warehousing Specialists,0.6944444444444444
+15-1255,15-1255.01,Video Game Designers,0.5833333333333333
+15-1299,15-1299.01,Web Administrators,0.6739130434782609
+15-1299,15-1299.02,Geographic Information Systems Technologists and Technicians,0.6018518518518519
+15-1299,15-1299.03,Document Management Specialists,0.6777777777777778
+15-1299,15-1299.04,Penetration Testers,0.5909090909090909
+15-1299,15-1299.05,Information Security Engineers,0.625
+15-1299,15-1299.06,Digital Forensics Analysts,0.65
+15-1299,15-1299.07,Blockchain Engineers,0.5294117647058824
+15-1299,15-1299.08,Computer Systems Engineers/Architects,0.5714285714285714
+15-1299,15-1299.09,Information Technology Project Managers,0.4523809523809523
+15-2041,15-2041.01,Biostatisticians,0.74
+15-2051,15-2051.01,Business Intelligence Analysts,0.5757575757575758
+15-2051,15-2051.02,Clinical Data Managers,0.5750000000000001
+15-2099,15-2099.01,Bioinformatics Technicians,0.65
+17-1022,17-1022.01,Geodetic Surveyors,0.40625
+17-2051,17-2051.01,Transportation Engineers,0.4886363636363636
+17-2051,17-2051.02,Water/Wastewater Engineers,0.5
+17-2072,17-2072.01,Radio Frequency Identification Device Specialists,0.3809523809523809
+17-2111,17-2111.02,Fire-Prevention and Protection Engineers,0.6153846153846154
+17-2112,17-2112.01,Human Factors Engineers and Ergonomists,0.52
+17-2112,17-2112.02,Validation Engineers,0.4761904761904761
+17-2112,17-2112.03,Manufacturing Engineers,0.4787234042553191
+17-2141,17-2141.01,Fuel Cell Engineers,0.4901960784313725
+17-2141,17-2141.02,Automotive Engineers,0.64
+17-2199,17-2199.03,"Energy Engineers, Except Wind and Solar",0.5
+17-2199,17-2199.05,Mechatronics Engineers,0.3026315789473684
+17-2199,17-2199.06,Microsystems Engineers,0.5256410256410257
+17-2199,17-2199.07,Photonics Engineers,0.2888888888888889
+17-2199,17-2199.08,Robotics Engineers,0.4772727272727273
+17-2199,17-2199.09,Nanosystems Engineers,0.4886363636363636
+17-2199,17-2199.10,Wind Energy Engineers,0.5263157894736842
+17-2199,17-2199.11,Solar Energy Systems Engineers,0.46
+17-3024,17-3024.01,Robotics Technicians,0.2105263157894736
+17-3026,17-3026.01,Nanotechnology Engineering Technologists and Technicians,0.3617021276595744
+17-3027,17-3027.01,Automotive Engineering Technicians,0.2222222222222222
+17-3029,17-3029.01,Non-Destructive Testing Specialists,0.2758620689655172
+17-3029,17-3029.08,Photonics Technicians,0.2444444444444444
+19-1029,19-1029.01,Bioinformatics Scientists,0.5454545454545454
+19-1029,19-1029.02,Molecular and Cellular Biologists,0.4390243902439024
+19-1029,19-1029.03,Geneticists,0.4767441860465116
+19-1029,19-1029.04,Biologists,0.3823529411764705
+19-1031,19-1031.02,Range Managers,0.4032258064516129
+19-1031,19-1031.03,Park Naturalists,0.4848484848484848
+19-2041,19-2041.01,Climate Change Policy Analysts,0.75
+19-2041,19-2041.02,Environmental Restoration Planners,0.6521739130434783
+19-2041,19-2041.03,Industrial Ecologists,0.7132352941176471
+19-2099,19-2099.01,Remote Sensing Scientists and Technologists,0.4456521739130434
+19-3011,19-3011.01,Environmental Economists,0.7763157894736842
+19-3039,19-3039.02,Neuropsychologists,0.2857142857142857
+19-3039,19-3039.03,Clinical Neuropsychologists,0.2777777777777778
+19-3099,19-3099.01,Transportation Planners,0.6627906976744186
+19-4012,19-4012.01,Precision Agriculture Technicians,0.5
+19-4051,19-4051.02,Nuclear Monitoring Technicians,0.3181818181818182
+19-4099,19-4099.01,Quality Control Analysts,0.4787234042553191
+19-4099,19-4099.03,Remote Sensing Technicians,0.4677419354838709
+25-2059,25-2059.01,Adapted Physical Education Specialists,0.25
+27-2012,27-2012.03,Media Programming Directors,0.6153846153846154
+27-2012,27-2012.04,Talent Directors,0.3461538461538461
+27-2012,27-2012.05,Media Technical Directors/Managers,0.3076923076923077
+27-3043,27-3043.05,"Poets, Lyricists and Creative Writers",0.7407407407407407
+29-1071,29-1071.01,Anesthesiologist Assistants,0.0952380952380952
+29-1122,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",0.2875
+29-1129,29-1129.01,Art Therapists,0.3191489361702128
+29-1129,29-1129.02,Music Therapists,0.5
+29-1141,29-1141.01,Acute Care Nurses,0.3265306122448979
+29-1141,29-1141.02,Advanced Practice Psychiatric Nurses,0.4444444444444445
+29-1141,29-1141.03,Critical Care Nurses,0.1896551724137931
+29-1141,29-1141.04,Clinical Nurse Specialists,0.3333333333333333
+29-1229,29-1229.01,Allergists and Immunologists,0.3666666666666667
+29-1229,29-1229.02,Hospitalists,0.3571428571428571
+29-1229,29-1229.03,Urologists,0.25
+29-1229,29-1229.04,Physical Medicine and Rehabilitation Physicians,0.1333333333333333
+29-1229,29-1229.05,Preventive Medicine Physicians,0.3666666666666666
+29-1229,29-1229.06,Sports Medicine Physicians,0.4339622641509433
+29-1299,29-1299.01,Naturopathic Physicians,0.2564102564102564
+29-1299,29-1299.02,Orthoptists,0.375
+29-2011,29-2011.01,Cytogenetic Technologists,0.3362068965517241
+29-2011,29-2011.02,Cytotechnologists,0.16
+29-2011,29-2011.04,Histotechnologists,0.0625
+29-2012,29-2012.01,Histology Technicians,0.0
+29-2099,29-2099.01,Neurodiagnostic Technologists,0.1875
+29-2099,29-2099.05,Ophthalmic Medical Technologists,0.0666666666666666
+29-2099,29-2099.08,Patient Representatives,0.5714285714285714
+29-9099,29-9099.01,Midwives,0.25
+31-9099,31-9099.01,Speech-Language Pathology Assistants,0.2105263157894736
+31-9099,31-9099.02,Endoscopy Technicians,0.0
+33-3021,33-3021.02,Police Identification and Records Officers,0.3461538461538461
+33-3021,33-3021.06,Intelligence Analysts,0.3970588235294117
+33-3051,33-3051.04,Customs and Border Protection Officers,0.2619047619047618
+33-9099,33-9099.02,Retail Loss Prevention Specialists,0.3414634146341463
+35-3023,35-3023.01,Baristas,0.1578947368421052
+39-9011,39-9011.01,Nannies,0.3513513513513513
+41-4011,41-4011.07,Solar Sales Representatives and Assessors,0.576923076923077
+43-5011,43-5011.01,Freight Forwarders,0.5849056603773585
+47-1011,47-1011.03,Solar Energy Installation Managers,0.2666666666666666
+47-2152,47-2152.04,Solar Thermal Installers and Technicians,0.073170731707317
+47-4011,47-4011.01,Energy Auditors,0.4268292682926829
+47-4099,47-4099.03,Weatherization Installers and Technicians,0.2
+49-9099,49-9099.01,Geothermal Technicians,0.3064516129032258
+51-8013,51-8013.03,Biomass Plant Technicians,0.088235294117647
+51-8013,51-8013.04,Hydroelectric Plant Technicians,0.075
+51-8099,51-8099.01,Biofuels Processing Technicians,0.081081081081081
+51-9071,51-9071.06,Gem and Diamond Workers,0.1428571428571428
+51-9195,51-9195.03,"Stone Cutters and Carvers, Manufacturing",0.0434782608695652
+51-9195,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers",0.1136363636363636
+51-9195,51-9195.05,"Potters, Manufacturing",0.0119047619047619
+53-1042,53-1042.01,Recycling Coordinators,0.4655172413793103
+53-6051,53-6051.01,Aviation Inspectors,0.26
+53-6051,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",0.125
+53-7062,53-7062.04,Recycling and Reclamation Workers,0.0217391304347826

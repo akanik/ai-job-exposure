@@ -1,0 +1,11 @@
+Location,Occupation,Jobs,Employment category,AI exposure rating,AI exposure category,Jobs per 10k,State jobs per 10k,State-metro difference
+"San Francisco-Oakland-Fremont, CA",Software Developers,69030.0,High,0.4473684210526315,Medium low,290.78486216890207,156.14070726980242,134.64415489909965
+"San Francisco-Oakland-Fremont, CA",Computer and Information Systems Managers,23830.0,High,0.5606060606060607,Medium high,100.38248972164183,52.00480956642528,48.37768015521655
+"San Francisco-Oakland-Fremont, CA","Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",29980.0,High,0.5666666666666667,Medium high,126.28900721170048,85.71020715175939,40.57880005994109
+"San Francisco-Oakland-Fremont, CA",Market Research Analysts and Marketing Specialists,24120.0,High,0.576923076923077,Medium high,101.60409786344948,65.37386692434815,36.23023093910133
+"San Francisco-Oakland-Fremont, CA","Managers, All Other",21550.0,High,0.4654910240471341,Medium low,90.77812226191278,54.67313066537826,36.104991596534525
+"San Francisco-Oakland-Fremont, CA","Computer Occupations, All Other",16930.0,High,0.5969636725035986,Medium high,71.31664083035655,44.00533664219791,27.311304188158637
+"San Francisco-Oakland-Fremont, CA",Lawyers,18470.0,High,0.475,Medium low,77.80380130754196,52.58129869274227,25.222502614799687
+"San Francisco-Oakland-Fremont, CA",Project Management Specialists,20770.0,High,0.4,Medium low,87.49241760463705,62.79888216013221,24.693535444504846
+"San Francisco-Oakland-Fremont, CA",Management Analysts,23560.0,High,0.5,Medium low,99.24513041720024,75.37183548647447,23.873294930725777
+"San Francisco-Oakland-Fremont, CA",Data Scientists,10460.0,High,0.59375,Medium high,44.062141942441194,21.582654814782277,22.479487127658917

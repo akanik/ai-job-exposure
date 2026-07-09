@@ -1,0 +1,11 @@
+Location,Occupation,Jobs,Employment category,AI exposure rating,AI exposure category,Jobs per 10k,State jobs per 10k,State-metro difference
+"Albany-Schenectady-Troy, NY Metro Area","Laborers and Freight, Stock, and Material Movers, Hand",7270.0,High,0.06,Low,161.76765092009524,104.20107349298101,57.566577427114225
+"Albany-Schenectady-Troy, NY Metro Area",Computer Systems Analysts,3290.0,High,0.4705882352941176,Medium low,73.20709374513251,24.876135425268373,48.33095831986414
+"Albany-Schenectady-Troy, NY Metro Area","Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",7690.0,High,0.5673076923076923,Medium high,171.11323735564406,126.434764657308,44.678472698336066
+"Albany-Schenectady-Troy, NY Metro Area",Heavy and Tractor-Trailer Truck Drivers,4830.0,High,0.173076923076923,Low,107.47424400881155,65.7514450867052,41.72279892210635
+"Albany-Schenectady-Troy, NY Metro Area",Customer Service Representatives,8290.0,High,0.7045454545454546,Medium high,184.46407512071383,145.63377374071015,38.830301380003675
+"Albany-Schenectady-Troy, NY Metro Area",Stockers and Order Fillers,8240.0,High,0.1909090909090909,Low,183.35150530695802,150.8464079273328,32.50509737962523
+"Albany-Schenectady-Troy, NY Metro Area",Cashiers,8570.0,High,0.3604651162790697,Medium low,190.69446607774637,164.0070189925681,26.687447085178263
+"Albany-Schenectady-Troy, NY Metro Area",Computer Programmers,1430.0,Medium high,0.6833333333333333,Medium high,31.819496673416257,7.246077621800166,24.573419051616092
+"Albany-Schenectady-Troy, NY Metro Area","Tax Examiners and Collectors, and Revenue Agents",1190.0,Medium high,0.6774193548387096,Medium high,26.479161567388353,3.6643270024772914,22.81483456491106
+"Albany-Schenectady-Troy, NY Metro Area",Industrial Engineers,1570.0,High,0.6052631578947368,Medium high,34.93469215193253,12.190338563170934,22.744353588761598
